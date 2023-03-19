@@ -1,0 +1,26 @@
+Usando la primera configuración descrita en la guía se trazaron los puntos aproximados donde pasan líneas equipotenciales con estos datos se logro graficar un aproximado de superficie equipotencial.  Esta superficie se logró trazar siguiendo el siguiente procedimiento. Primero se trazaron los puntos de cada voltaje y se diferenciaron se calculo un circulo de r aproximado al promedio de los puntos y luego se trazo para poder diferenciar las diferentes líneas equipotenciales y los diferentes voltajes, esto se hizo en un plano limitado por un limite inferior que era un circulo de radio 2 en la gráfica se ve descrito como un circulo rojo con relleno rayado. También había un limite superior de radio 8 y esta era nuestra área de acción, en la gráfica se veía descrito como un circulo rojo con relleno punteado porque hay es donde se tomaron los puntos. 
+Con esto podemos analizar que a mayor distancia menor es el voltaje de la línea equipotencial y que estas se distribuyen uniformemente sobre el plano, hay variaciones en la medición y en la toma de los datos debido a que en un ambiente experimental no se pueden controlar todos los factores del experimento y pueden surgir estas variaciones, también puede ser por los implementos usados en la configuración. 
+
+La capacidad de una sustancia de ser conductora depende de si tiene cargas eléctricas móviles o no. Los materiales conductores poseen cargas eléctricas no fijas, como lo son electrones o iones, que pueden moverse a través del campo eléctrico. Si se cambia de sustancia los efectos variaran dependiendo de la conductividad de la sustancia a escoger. Por ejemplo, si escogemos agua con sal común NaCl la conductividad aumentara debido a los iones de sodio (Na-) y de cloruro (Cl+) que interactúan con el agua (H2O). 
+
+Gracias a los datos tomados se pudo graficar satisfactoriamente las líneas equipotenciales identificadas y así poder observar y describir su comportamiento, y decir que: 
+Las líneas equipotenciales siempre son perpendiculares a las líneas del campo eléctrico. Esto se debe a que el campo eléctrico apunta en la dirección donde el potencial eléctrico disminuye más rápidamente, por lo que las líneas equipotenciales deben ser perpendiculares a esa dirección.
+Las líneas equipotenciales están más juntas en las regiones donde el campo eléctrico es más intenso. Esto se debe a que el potencial eléctrico disminuye más rápidamente en esas regiones, lo que hace que las líneas equipotenciales se acerquen entre sí.
+
+
+
+
+
+Capacitores y dieléctricos. 
+Capacitores 
+Los capacitores, también conocidos como condensadores, son componentes electrónicos que se utilizan para almacenar carga eléctrica. Consisten en dos placas conductoras
+ separadas por un material aislante, llamado dieléctrico. Cuando se aplica una diferencia de potencial eléctrico entre las placas, se acumula carga eléctrica 
+en las mismas, lo que permite al capacitor almacenar energía eléctrica.
+Boylestad, R. L. y Nashelsky, L. (2018). Dispositivos electrónicos y teoría de circuitos (11ª ed.). Pearson.
+Dorf, R. C. y Svoboda, J. A. (2019). Introducción a los circuitos eléctricos (10ª ed.). Wiley.
+
+Dieléctricos. 
+Los materiales dieléctricos, también conocidos como aislantes eléctricos, son materiales que no conducen electricidad y se utilizan para separar las cargas eléctricas en un capacitor. Los dieléctricos se utilizan para aumentar la capacidad de almacenamiento de energía de un capacitor sin aumentar su tamaño físico.
+Cheng, DK (1995). Campo y ondas electromagnéticas (2ª ed.). Addison-Wesley.
+Grant, PM y Phillips, W. C. (2017). Electromagnetismo: teoría y aplicaciones (2ª ed.). Editorial Reverte.
+

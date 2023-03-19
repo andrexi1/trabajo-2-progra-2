@@ -1,0 +1,3 @@
+Los capacitores, también conocidos como condensadores, son componentes electrónicos que se utilizan para almacenar carga eléctrica. Consisten en dos placas conductoras
+ separadas por un material aislante, llamado dieléctrico. Cuando se aplica una diferencia de potencial eléctrico entre las placas, se acumula carga eléctrica 
+en las mismas, lo que permite al capacitor almacenar energía eléctrica.

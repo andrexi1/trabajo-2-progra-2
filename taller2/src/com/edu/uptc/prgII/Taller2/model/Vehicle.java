@@ -92,7 +92,9 @@ public class Vehicle {
 	public int getId() {
 		return id;
 	}
-
+	/**
+	 * Este metodo nos vuelet el Vehiculo en un String para poder guardarlo o imprimirlo. 
+	 */
 	@Override
 	public String toString() {
 		return "Vehicle [brand=" + brand + ", model=" + model + ", year=" + year + ", plate=" + plate + ", Color="

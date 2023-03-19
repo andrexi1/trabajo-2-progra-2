@@ -3,8 +3,8 @@ package com.edu.uptc.prgII.Taller2.presenter;
 import java.io.File;
 import java.io.IOException;
 
-import com.edu.uptc.prgII.activityNo2.view.ViewFile;
-import com.edu.uptc.prgII.activityNo2.view.ViewScanner;
+import com.edu.uptc.prgII.Taller2.view.ViewFile;
+import com.edu.uptc.prgII.Taller2.view.ViewScanner;
 
 /**
  * 
@@ -16,6 +16,7 @@ public class Presenter1 {
 	private static ViewScanner Scanner = new ViewScanner();
 
 	/**
+	 * Este es el menu de la clase.
 	 * 
 	 * @throws IOException
 	 */
@@ -54,6 +55,9 @@ public class Presenter1 {
 	}
 
 	/**
+	 * Este nos permite leer un archivo y lo imprime eliminandole los espacios en
+	 * blanco. Con una interfaz se puede editar el metodo y eliminaria lo que la
+	 * interfaz le ordene.
 	 * 
 	 * @param path
 	 * @throws IOException
@@ -66,18 +70,25 @@ public class Presenter1 {
 	}
 
 	/**
+	 * este metodo nos pertite almacenar el archivo en otro lugar.
 	 * 
 	 * @param initialPath
 	 * @param FinalPath
 	 * @throws IOException
 	 */
 	public static void FileWriter(String initialPath, String FinalPath) throws IOException {
-		String text = reader.ReadFle(initialPath);
-		reader.writeFile(FinalPath, text);
+		String[] text = reader.ReadFle(initialPath).split("\\s+");
+		String aux = " ";
+
+		for (int i = 0; i < text.length; i++) {
+			aux += text[i];
+			reader.writeFile(FinalPath, aux);
+		}
 		Scanner.showMessage("Finalizado...");
 	}
 
 	/**
+	 * este metodo elimina algun archivo almacenado.
 	 * 
 	 * @param Path
 	 * @param nameFile
