@@ -3,8 +3,8 @@ package com.edu.uptc.prgII.Taller2.presenter;
 import java.io.File;
 import java.io.IOException;
 
-import com.edu.uptc.prgII.activityNo2.view.ViewFile;
-import com.edu.uptc.prgII.activityNo2.view.ViewScanner;
+import com.edu.uptc.prgII.Taller2.view.ViewFile;
+import com.edu.uptc.prgII.Taller2.view.ViewScanner;
 
 /**
  * 

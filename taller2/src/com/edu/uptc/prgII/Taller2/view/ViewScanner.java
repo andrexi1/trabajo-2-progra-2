@@ -1,4 +1,4 @@
-package com.edu.uptc.prgII.activityNo2.view;
+package com.edu.uptc.prgII.Taller2.view;
 
 import java.util.Scanner;
 
