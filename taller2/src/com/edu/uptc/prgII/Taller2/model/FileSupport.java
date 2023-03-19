@@ -11,7 +11,7 @@ public class FileSupport {
 	private File fileIn;
 
 	/**
-	 * 
+	 * Metodo constructor de la clase. 
 	 * @param fileIn
 	 */
 	public FileSupport(File fileIn) {
@@ -20,7 +20,7 @@ public class FileSupport {
 	}
 
 	/**
-	 * 
+	 * Metodo get file. 
 	 * @return
 	 */
 	public File getFileIn() {
@@ -28,7 +28,7 @@ public class FileSupport {
 	}
 
 	/**
-	 * 
+	 * metodo set file. 
 	 * @param fileIn
 	 */
 	public void setFileIn(File fileIn) {
@@ -36,7 +36,7 @@ public class FileSupport {
 	}
 
 	/**
-	 * 
+	 * Este metodo nos convierte el file en un String para poder imprimirlo o guardarlo en otros archivo. 
 	 */
 	@Override
 	public String toString() {
