@@ -5,14 +5,11 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-<<<<<<< HEAD
-=======
 /**
  * 
  * @author Andres barrera, javier lopez y Diego Patiño
  *
  */
->>>>>>> ae790d8a1eea55aff176d827275df6f5baa7dc2e
 public class ViewFile {
 	/**
 	 * 
@@ -43,8 +40,4 @@ public class ViewFile {
 		Output.close();
 		return true;
 	}
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ae790d8a1eea55aff176d827275df6f5baa7dc2e

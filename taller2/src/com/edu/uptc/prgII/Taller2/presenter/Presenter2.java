@@ -50,6 +50,7 @@ public class Presenter2 {
 				String aux7 = Scanner.readString("Ingrese nombre del archivo");
 				SearchVehicle(aux7);
 				MENU();
+				break;
 			case 4:
 				Scanner.showMessage("Saliendo..");
 				Scanner.breaker();
